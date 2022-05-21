@@ -1,0 +1,8 @@
+firmware/
+.ipynb_checkpoints/
+samples/Arbol_42_original/Densidad_Arbol_42.xlsx
+samples/Arbol_42_original/Fakop_Medidas_Velocidad.xlsx
+samples/Arbol_42_original/USLab_Medidas_Velocidad.xlsx
+commandos_HP33120A.txt
+docs/4882-1992.pdf
+Generador_HP33120A_v01.ipynb
