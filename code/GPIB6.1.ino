@@ -18,7 +18,7 @@ Permissions beyond the scope of this license may be available at emanuele_girlan
  if "++" command call the handler,
  otherwise sends it to the GPIB bus.
  To receive from GIPB you must issue a ++read command or put the controller in auto mode with ++auto 1.
- The receiver is unbeffered (byte are senti to USB as soon as they are received).
+ The receiver is unbeffered (byte are sent to USB as soon as they are received).
  */
 
 /*
